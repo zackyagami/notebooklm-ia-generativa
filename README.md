@@ -61,6 +61,14 @@ https://lbc-global.com/wp-content/uploads/2023/06/PT_Generative-AI_.pdf
 
 https://notebooklm.google.com/
 
+# 🔗 NotebookLM Utilizado
+ 
+O material foi organizado e analisado por meio do NotebookLM, utilizando as fontes listadas anteriormente para geração de resumos, comparações, glossário e apoio à construção deste guia de estudos.
+ 
+**Link do Notebook:**
+ 
+https://notebook.google.com/notebook/9b2ab38b-5ddc-47f7-9c07-808eb8887008
+
 ---
 
 # 🤖 Utilização do NotebookLM
